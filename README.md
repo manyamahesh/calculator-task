@@ -27,8 +27,7 @@ The calculator performs basic arithmetic operations including addition, subtract
 
 ## 🚀 Live Demo
 
-🔗 [https://manyamahesh.github.io/calculator-task](https://manyamahesh.github.io/calculator-task)  
-*(Replace this with your actual deployed link after GitHub Pages setup)*
+🔗 (https://manyamahesh.github.io/codesoft-calculator-task/)
 
 ---
 
